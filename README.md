@@ -10,6 +10,9 @@ Git:
     cd serenity-rest-starter
 
 
+
+MODIFY
+
 Or simply [download a zip](https://github.com/serenity-bdd/serenity-repository-starter/archive/master.zip) file.
 
 ## The starter project
