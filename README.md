@@ -9,7 +9,7 @@ Git:
     git clone https://github.com/serenity-bdd/serenity-rest-starter.git
     cd serenity-rest-starter
 
-
+test
 
 update STATUS
 
