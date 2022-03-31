@@ -11,7 +11,7 @@ Git:
 
 
 
-STATUS
+update STATUS
 
 Or simply [download a zip](https://github.com/serenity-bdd/serenity-repository-starter/archive/master.zip) file.
 
