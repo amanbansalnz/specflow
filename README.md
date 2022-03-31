@@ -9,9 +9,9 @@ Git:
     git clone https://github.com/serenity-bdd/serenity-rest-starter.git
     cd serenity-rest-starter
 
+test
 
-
-STATUS
+update STATUS
 
 Or simply [download a zip](https://github.com/serenity-bdd/serenity-repository-starter/archive/master.zip) file.
 
