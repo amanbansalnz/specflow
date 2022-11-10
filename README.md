@@ -1,6 +1,7 @@
 # Getting started with REST API testing with Serenity and Cucumber 6
 
 UPDATE FOR TESTING PURPOSE
+1/Always work of feature branches not master
 
 This tutorial show you how to get started with REST-API testing using Serenity and Cucumber 6. 
 
@@ -11,9 +12,6 @@ Git:
     git clone https://github.com/serenity-bdd/serenity-rest-starter.git
     cd serenity-rest-starter
 
-test
-
-update STATUS
 
 Or simply [download a zip](https://github.com/serenity-bdd/serenity-repository-starter/archive/master.zip) file.
 
