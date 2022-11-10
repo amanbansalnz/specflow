@@ -1,5 +1,7 @@
 # Getting started with REST API testing with Serenity and Cucumber 6
 
+UPDATE FOR TESTING PURPOSE
+
 This tutorial show you how to get started with REST-API testing using Serenity and Cucumber 6. 
 
 ## Get the code
